@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defs>
+<def>
+	<name>Sandbox</name>
+	<pat>default</pat>
+	<meth>GET</meth>
+</def><def>
+	<name>Verify</name>
+	<pat>default</pat>
+	<meth>GET</meth>
+	<url>
+		<type>s</type>
+		<value>account/verify_credentials</value>
+	</url>
+</def>
+</defs>

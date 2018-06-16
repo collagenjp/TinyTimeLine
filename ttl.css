@@ -1,0 +1,9 @@
+#ba { color:black; text-decoration:none; }
+#la { text-decoration:none; }
+#recent { color:crimson; }
+small{ color:gray; }
+body { font-family:'arial',sans-serif;}
+form { margin: 0 0 0; }
+dl { margin:0; }
+dt { font-weight:bold; }
+dd { overflow-wrap:break-word; word-break:break-all; }

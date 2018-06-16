@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defs>
+<def>
+	<name>Search</name>
+	<act>SL</act>
+	<param>
+		<guide>Word</guide>
+		<name>word</name>
+		<value>#mhf360</value>
+	</param>
+</def><def>
+	<name>UserLine</name>
+	<act>US</act>
+	<param>
+		<guide>Name</guide>
+		<name>user</name>
+		<value>Judstyle</value>
+	</param><param>
+		<name>detail</name>
+		<value>on</value>
+	</param>
+</def><def>
+	<name>ListLine</name>
+	<act>LI</act>
+	<param>
+		<guide>User</guide>
+		<name>user</name>
+		<value>Judstyle</value>
+	</param><param>
+		<guide>List</guide>
+		<name>list</name>
+		<value>home</value>
+	</param>
+</def><def>
+	<name>Message</name>
+	<act>QT</act>
+	<param>
+		<guide>ID</guide>
+		<name>tid</name>
+		<value>273382006124081153</value>
+	</param>
+</def><def>
+	<name>Timeline</name>
+	<act>FR</act>
+</def>
+</defs>
